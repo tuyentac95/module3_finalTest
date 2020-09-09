@@ -1,0 +1,8 @@
+com/codegym/service/iProductDAO.java
+ com.codegym.service.iProductDAO
+com/codegym/model/Product.java
+ com.codegym.model.Product
+com/codegym/service/ProductDAO.java
+ com.codegym.service.ProductDAO
+com/codegym/controller/ProductServlet.java
+ com.codegym.controller.ProductServlet
